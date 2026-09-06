@@ -18,8 +18,8 @@ and understanding how software works under the hood.
 ## 🚀 Current Projects
 
 - 🗂️ CLI-Based File Explorer — C++
-- 🌐 TCP Client-Server — C++
-- 🤖 RAG Application — Python / LangChain
+- 🌐 NetScope — C++
+- 🤖 RAG Application — Python / LangChain - Planned
 
 ## 📚 Currently Learning
 
