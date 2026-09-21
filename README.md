@@ -19,6 +19,7 @@ and understanding how software works under the hood.
 
 - 🗂️ CLI-Based File Explorer — C++
 - 🌐 NetScope — C++
+- ❔ QuestBoard - Full Stack 
 - 🤖 RAG Application — Python / LangChain - Planned
 
 ## 📚 Currently Learning
